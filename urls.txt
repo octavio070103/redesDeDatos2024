@@ -1,0 +1,4 @@
+http://redesDedatos2024.com
+https://www.google.com/
+http://httpbin.org/status/404
+http://httpbin.org/status/500
